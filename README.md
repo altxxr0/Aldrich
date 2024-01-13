@@ -50,7 +50,7 @@
 Why is it [adfoc.us](http://adfoc.us/?refid=700817)? This is so we can continue Developing Katyusha and Project Offensive, Don't worry It's way Better than Linkvertise!
 But.. If you don't want to do that, You can Clone / Download the repository and Build the Application yourself if you don't like to wait,
 
-To Use Katyusha Launch **cmd.exe** and `cd (Katyusha's Current Location)` then `Katyusha.exe (Directory) (mode) (option)`
+To Use Aldrich start Aldrich.exe and use a Command using 'h' or 'help' to know the commands.
 
 #### Confused? Press the Skip Button in the Upper Right Corner (It is almost blended into the Background)
 
@@ -59,7 +59,7 @@ To Use Katyusha Launch **cmd.exe** and `cd (Katyusha's Current Location)` then `
 | 13.01.2024.0 | [Aldrich v07.01.2024.0.zip](http://adfoc.us/700817100065144) | New Release | SHA256(.zip): 47faa35cd762d27d2262b8c81a541bdbe083847fc83f9e89886159407e659112 SHA256(.exe): 6a14cc45c4563656649d50d05da84df98ba7a2302c87975444caf4b30ae7b57c |
 
 ### Contribution 🤝
-Feel Free to contribute to the project, via [Pull Requests 🌿](https://github.com/ProjectArmageddon/Katyusha/pulls) or if you want a feature/idea you want to share to make Katyusha better use [Discussions 💬](https://github.com/GenesisFoundationCore/Katyusha/discussions), If you have a Problem / Issue use [Issues 🗣](https://github.com/ProjectArmageddon/Katyusha/issues).
+Feel Free to contribute to the project, via [Pull Requests 🌿](https://github.com/ProjectArmageddon/Aldrich/pulls) or if you want a feature/idea you want to share to make Katyusha better use [Discussions 💬](https://github.com/GenesisFoundationCore/Aldrich/discussions), If you have a Problem / Issue use [Issues 🗣](https://github.com/ProjectArmageddon/Aldrich/issues).
 
 ### License 📃
 ```
