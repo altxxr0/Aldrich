@@ -50,7 +50,7 @@
 Why is it [adfoc.us](http://adfoc.us/?refid=700817)? This is so we can continue Developing Katyusha and Project Offensive, Don't worry It's way Better than Linkvertise!
 But.. If you don't want to do that, You can Clone / Download the repository and Build the Application yourself if you don't like to wait,
 
-To Use Aldrich start Aldrich.exe and use a Command using 'h' or 'help' to know the commands.
+To Use Aldrich start `Aldrich.exe` and use a Command using '`h`' or '`help`' to know the commands.
 
 #### Confused? Press the Skip Button in the Upper Right Corner (It is almost blended into the Background)
 
