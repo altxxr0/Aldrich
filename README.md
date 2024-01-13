@@ -33,7 +33,7 @@
 
              GenesisFoundationCore/Aldrich
 ```
-![GitHub issues](https://img.shields.io/github/issues/ProjectArmageddon/Aldrich?style=for-the-badge&color=red) ![GitHub closed issues](https://img.shields.io/github/issues-closed/ProjectArmageddon/Aldrich?style=for-the-badge) ![GitHub pull requests](https://img.shields.io/github/issues-pr/ProjectArmageddon/Aldrich?style=for-the-badge&color=orange) ![GitHub closed pull requests&color=red](https://img.shields.io/github/issues-pr-closed/ProjectArmageddon/Aldrich?style=for-the-badge&color=blue)
+![GitHub issues](https://img.shields.io/github/issues/GenesisFoundationCore/Aldrich?style=for-the-badge&color=red) ![GitHub closed issues](https://img.shields.io/github/issues-closed/ProjectArmageddon/Aldrich?style=for-the-badge) ![GitHub pull requests](https://img.shields.io/github/issues-pr/GenesisFoundationCore/Aldrich?style=for-the-badge&color=orange) ![GitHub closed pull requests&color=red](https://img.shields.io/github/issues-pr-closed/GenesisFoundationCore/Aldrich?style=for-the-badge&color=blue)
 
 [![ProjectOffensive](https://github.com/GenesisFoundationCore/Katyusha/assets/153700938/fa8d6e2b-15b2-4bdb-bd72-a9a193e01d6c)](https://github.com/GenesisFoundationCore)
 
