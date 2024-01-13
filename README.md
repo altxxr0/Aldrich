@@ -71,3 +71,85 @@ NonCommercial — You may not use the material for commercial purposes.
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 ```
+
+## Payloads & Usage 🚀
+```
+ [Aldrich]:
+    Commands:
+        help / h                            : Opens the list of the commands
+        
+        discord / d / dd                    : Uses the Discord Client
+
+        discord [token] [guildid] [mode..]
+        d [token] [guildid] [mode..]
+        dd [token] [guildid] [mode..]
+            
+
+        Discord Modes:
+
+            --pretend / -p / --ptd          : Host a bot using your own code 
+                                              (Don't include a new Initialization)
+        
+         .. --pretend C:\my\bot\code        
+         .. -p C:\my\bot\code      
+         .. --ptd C:\my\bot\code
+
+            --espionage / -p / -eie         : Get's (Discord Server Only) Information
+                                              Outputing it in a Espionage.txt file
+         .. --espionage
+         .. -p
+         .. -eie
+
+            --sabotage / -s / -ste          : Sabotage's the Current joined server(s)
+       
+         .. --sabotage [attackvector..]
+         .. -s [attackvector..]
+         .. -ste [attackvector..]
+        
+            Attack Vector:
+            
+                -u / --ultramegaphone       : Wan't to give a notice? wan't people's
+                [string]                      attention? Give it to them!
+                {message}
+
+             .. -u @everyone !
+             .. --ultramegaphone @everyone !
+
+                -dc / --deletechannel       : Delete a specific channel
+                [string]
+                {channel name}
+
+             .. -dc general
+             .. --deletechannel general     
+            
+                -dr / --deleterole          : Delete a specific role
+                [string]
+                {role name}
+
+             .. -dr new-role
+             .. --deletetole new-role
+
+                -nc / --nukechannels        : Nuke Every Channel
+
+             .. -nc
+             .. --nukechannels
+
+                -nr / --nukeroles           : Nuke Every Role
+
+             .. -nr
+             .. --nukeroles
+
+                -sc / --spamchannels        : Spam Specified Channels
+                [int]                 [string]       [string]
+                {number of instances} {channel type} {channel name}
+
+             .. -sc 15 text L_BOZO_SKILL_ISSUE
+             .. --spamchannels 69 voice SICK_BEATS
+             .. -sc 13 media Social Status
+             .. --spamchannels 99 forum 4Chans
+
+     Other:
+
+                                For more details go to these following links:
+        https://github.com/GenesisFoundationCore/Aldrich | https://github.com/GenesisFoundationCore
+```
