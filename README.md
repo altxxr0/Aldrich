@@ -37,7 +37,7 @@
 
 [![ProjectOffensive](https://github.com/GenesisFoundationCore/Katyusha/assets/153700938/fa8d6e2b-15b2-4bdb-bd72-a9a193e01d6c)](https://github.com/GenesisFoundationCore)
 
-## Aldirch 🤵
+## Aldrich 🤵
 **All in one Espionage and Sabotage Multi-Tool**
 
 ## Description 📜
