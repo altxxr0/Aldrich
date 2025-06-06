@@ -37,6 +37,8 @@
 
 [![ProjectOffensive](https://github.com/GenesisFoundationCore/Katyusha/assets/153700938/fa8d6e2b-15b2-4bdb-bd72-a9a193e01d6c)](https://github.com/GenesisFoundationCore)
 
+# ⚠ Aldrich will now be abandoned starting in June 2025, as Genesis Foundation Core will no longer be operable, any Projects related to GFC will be Archived ⚠
+
 ## Aldrich 🤵
 **All in one Espionage and Sabotage Multi-Tool**
 
